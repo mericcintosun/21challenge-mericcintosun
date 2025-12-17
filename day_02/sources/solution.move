@@ -6,9 +6,6 @@
 /// To test this solution, temporarily rename main.move and use this file.
 
 module challenge::day_02_solution {
-    #[test_only]
-    use std::unit_test::assert_eq;
-
     // Function that adds two u64 numbers
     public fun sum(a: u64, b: u64): u64 {
         a + b
@@ -17,8 +14,7 @@ module challenge::day_02_solution {
     // Test that verifies sum(1, 2) == 3
     #[test]
     fun test_sum() {
-        let result = sum(1, 2);
-        assert_eq!(result, 3);
+        assert!(sum(1, 2) == 3);
     }
 }
 

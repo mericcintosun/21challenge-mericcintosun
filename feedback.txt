@@ -1,0 +1,10 @@
+Meriç Cintosun geri bildirimler:
+
+- Hedef kitle ve seviye daha net tanımlanabilir.
+- README'de "kimler için?" bölümü eklenebilir.
+- Her günün README'sine zorluk seviyesi eklenebilir.
+- Her gün için tahmini süre belirtilerek zaman planlaması kolaylaştırılabilir.
+- Her günün sonunda "Kendini değerlendir" bölümü eklenebilir.
+- Repoda `feedback.md` veya GitHub Discussions kullanarak kullanıcı geri bildirimleri toplanabilir.
+- README içinde artan seviyede ipuçları (incremental hints) sunulabilir.
+- Habit Tracker, Task Bounty Board ve Farm Simulator projeleri için benzer gerçek dünya örnekleri verilebilir. Öğrencinin blockchain'i daha iyi anlaması açısından.
